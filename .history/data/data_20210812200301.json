@@ -1,0 +1,90 @@
+{
+    "items" : [
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "pants",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_p.png"
+        },
+        {
+            "type": "pants",
+            "color" : "blue",
+            "size" : "small",
+            "gender" : "male",
+            "img" : "./img/blue_p.png"
+        },
+        {
+            "type": "skirt",
+            "color" : "blue",
+            "size" : "small",
+            "gender" : "male",
+            "img" : "./img/blue_s.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "pink",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/pink_t.png"
+        },
+        {
+            "type": "pants",
+            "color" : "pink",
+            "size" : "small",
+            "gender" : "male",
+            "img" : "./img/pink_p.png"
+        },
+        {
+            "type": "pants",
+            "color" : "pink",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/pink_p.png"
+        },
+        {
+            "type": "skirt",
+            "color" : "pink",
+            "size" : "small",
+            "gender" : "male",
+            "img" : "./img/pink_s.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "yellow",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/yellow_t.png"
+        },
+        {
+            "type": "pants",
+            "color" : "yellow",
+            "size" : "small",
+            "gender" : "male",
+            "img" : "./img/yellow_p.png"
+        },
+        {
+            "type": "pants",
+            "color" : "yellow",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/yellow_p.png"
+        },
+        {
+            "type": "skirt",
+            "color" : "yellow",
+            "size" : "small",
+            "gender" : "male",
+            "img" : "./img/yellow_s.png"
+        },
+    ],
+}
+
+

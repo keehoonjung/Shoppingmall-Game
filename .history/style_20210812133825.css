@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(94, 93, 93);
+  text-align: center;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  border: 1px solid black;
+  outline: none;
+  border-radius: 6px;
+  display: inline-block;
+  height: 50px;
+  padding: 8px 12px;
+  font-size: 18px;
+}
+
+header {
+  margin-top: 20px;
+}
+
+.header__logo {
+  width: 125px;
+}
+
+.filter {
+  display: flex;
+  justify-content: center;
+}
+
+.filter__btn {
+  padding-right: 24px;
+}
+
+.filter__btn img {
+  height: 50px;
+}
+
+.blue {
+  background-color: rgb(70, 70, 255);
+}

@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(94, 93, 93);
+  text-align: center;
+}

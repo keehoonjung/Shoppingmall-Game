@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(94, 93, 93);
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  border: 1px solid black;
+  border-radius: 24px;
+}

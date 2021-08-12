@@ -1,0 +1,141 @@
+{
+    "items" : [
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+        {
+            "type": "tshirt",
+            "color" : "blue",
+            "size" : "large",
+            "gender" : "female",
+            "img" : "./img/blue_t.png"
+        },
+    ]
+}
+
+
+
+
+
+
+
+<li class="item visible" data-type="shirt" data-color="blue">
+<img src="./imgs/blue_t.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="skirt" data-color="blue">
+<img src="./imgs/blue_s.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="pants" data-color="blue">
+<img src="./imgs/blue_p.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="shirt" data-color="pink">
+<img src="./imgs/pink_t.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="skirt" data-color="pink">
+<img src="./imgs/pink_s.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="pants" data-color="pink">
+<img src="./imgs/pink_p.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="shirt" data-color="yellow">
+<img src="./imgs/yellow_t.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="skirt" data-color="yellow">
+<img src="./imgs/yellow_s.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="pants" data-color="yellow">
+<img src="./imgs/yellow_p.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="shirt" data-color="yellow">
+<img src="./imgs/yellow_t.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="skirt" data-color="yellow">
+<img src="./imgs/yellow_s.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="pants" data-color="yellow">
+<img src="./imgs/yellow_p.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="shirt" data-color="yellow">
+<img src="./imgs/yellow_t.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="skirt" data-color="yellow">
+<img src="./imgs/yellow_s.png" alt="blueshirt">
+<span>male, large size</span>
+</li>
+<li class="item visible" data-type="pants" data-color="yellow">
+<img src="./imgs/yellow_p.png" alt="blueshirt">
+<span>male, large size</span>
+</li>

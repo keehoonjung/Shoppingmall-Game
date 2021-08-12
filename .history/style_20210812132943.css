@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(94, 93, 93);
+  text-align: center;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+header {
+  margin-top: 20px;
+}
+
+.header__logo {
+  width: 240px;
+}

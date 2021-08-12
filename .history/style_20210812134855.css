@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(94, 93, 93);
+  text-align: center;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  outline: none;
+  border-radius: 6px;
+  display: inline-block;
+  height: 50px;
+  padding: 8px 12px;
+  font-size: 18px;
+}
+
+header {
+  margin-top: 20px;
+}
+
+.header__logo {
+  width: 125px;
+}
+
+.filter {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  padding-left: 60px;
+}
+
+.filter__btn {
+  padding-right: 24px;
+}
+
+.filter__btn img {
+  height: 50px;
+}
+
+.blue {
+  background-color: rgb(90, 167, 235);
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.items {
+  padding: 0;
+}
+
+.item {
+  background-color: white;
+  margin-bottom: 12px;
+  width: 500px;
+  height: 60px;
+  margin: 12px auto;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+
+.item img {
+  height: 50px;
+}
+
+.item span {
+  margin-left: 25px;
+}
