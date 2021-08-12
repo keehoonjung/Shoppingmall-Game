@@ -32,34 +32,30 @@ loadItems() //
   })
   .catch(console.log);
 
-function setClickevent(items) {
-  const allItem = document.querySelectorAll(".item");
-  logoBtn.addEventListener("click", () => {
-    allItem.forEach((item) => {
-      item.classList.remove("hidden");
-    });
-  });
-  buttons.addEventListener("click", (event) => {
-    const key = event.target.dataset.key;
-    const value = event.target.dataset.value;
-    itemFilter(allItem, key, value);
-  });
-}
+// function setClickevent(items) {
+//   const allItem = document.querySelectorAll(".item");
+//   logoBtn.addEventListener("click", () => {
+//     allItem.forEach((item) => {
+//       item.classList.remove("hidden");
+//     });
+//   });
+//   buttons.addEventListener("click", (event) => {
+//     const key = event.target.dataset.key;
+//     const value = event.target.dataset.value;
+//     itemFilter(key, value)
+//     allItem.forEach((item)=>{
 
-function itemFilter(itemAll, key, value) {
-  itemAll.forEach((item) => {
-    if (key == "type") {
-      if (item.dataset.type == value) {
-        item.classList.remove("hidden");
-      } else {
-        item.classList.add("hidden");
-      }
-    } else if (key == "color") {
-      if (item.dataset.color == value) {
-        item.classList.remove("hidden");
-      } else {
-        item.classList.add("hidden");
-      }
-    }
-  });
-}
+//     })
+//     } else if (colorName) {
+//       const result = items.filter((item) => item.color == colorName);
+//       itemList.innerHTML = "";
+//       displayItems(result);
+//     }
+//   });
+// }
+
+// function itemFilter(itemAll , key, value){
+//     itemAll.forEach((item) => {
+//         if(item.key)
+//     })
+// }

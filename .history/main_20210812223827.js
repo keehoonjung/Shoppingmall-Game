@@ -55,7 +55,7 @@ function itemFilter(itemAll, key, value) {
         item.classList.add("hidden");
       }
     } else if (key == "color") {
-      if (item.dataset.color == value) {
+      if (item.dataset.type == value) {
         item.classList.remove("hidden");
       } else {
         item.classList.add("hidden");

@@ -48,18 +48,12 @@ function setClickevent(items) {
 
 function itemFilter(itemAll, key, value) {
   itemAll.forEach((item) => {
-    if (key == "type") {
-      if (item.dataset.type == value) {
-        item.classList.remove("hidden");
-      } else {
-        item.classList.add("hidden");
-      }
-    } else if (key == "color") {
-      if (item.dataset.color == value) {
-        item.classList.remove("hidden");
-      } else {
-        item.classList.add("hidden");
-      }
+    console.log(key);
+    console.log(item.dataset.key);
+    if (item.dataset.key == value) {
+      item.classList.remove("hidden");
+    } else {
+      item.classList.add("hidden");
     }
   });
 }
